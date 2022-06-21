@@ -33,5 +33,6 @@
     "Type": "movie",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
   }
-  ]
+  ],   "totalRecordCount": 4,
+  "version": "17.0.13"
 }
